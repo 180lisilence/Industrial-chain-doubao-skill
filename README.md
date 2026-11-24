@@ -2,6 +2,10 @@
 
 安卓 APK / DEX / SO 样本**只读**静态建档与初步 triage 的 Doubao Skill 方法库：从 badging、Manifest、解包产物、native so、字符串线索中提取身份与技术栈，按固定台账模板落盘，产出分级可修改点骨架。
 
+## 在线预览
+
+GitHub Pages 站点：https://180lisilence.github.io/Industrial-chain-doubao-skill/
+
 ## 仓库结构
 
 | 路径 | 说明 |
