@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 技能索引缓存（运行时按本机环境重建，不进仓库）
+skills/**/skill_index.json
+
+# 凭据与本地签名材料
+.env
+*.env
+*.key
+*.pem
+*.jks
+*.keystore
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
